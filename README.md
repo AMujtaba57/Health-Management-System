@@ -1,1 +1,1 @@
-# Health-Management-Syatem
+# Health-Management-System
